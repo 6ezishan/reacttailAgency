@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacttailAgency/static/css/main.9d12119a.css",
+    "main.js": "/reacttailAgency/static/js/main.7f6e1766.js",
+    "index.html": "/reacttailAgency/index.html",
+    "main.9d12119a.css.map": "/reacttailAgency/static/css/main.9d12119a.css.map",
+    "main.7f6e1766.js.map": "/reacttailAgency/static/js/main.7f6e1766.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d12119a.css",
+    "static/js/main.7f6e1766.js"
+  ]
+}
